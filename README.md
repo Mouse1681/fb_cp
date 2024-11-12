@@ -1,2 +1,2 @@
-# Facebook Login con fines educativos
+# Facebook Login 
 #Autor:Mouse
